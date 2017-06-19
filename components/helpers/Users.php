@@ -4,7 +4,7 @@ namespace app\components\helpers;
 
 use Yii;
 
-class User
+class Users
 {
     public function initUser()
     {

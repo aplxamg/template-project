@@ -76,6 +76,9 @@ $config = [
         'account' => [
             'class' => 'app\modules\account\Module',
         ],
+        'asset' => [
+            'class' => 'app\modules\asset\Module',
+        ],
     ],
     'params' => $params,
 ];
